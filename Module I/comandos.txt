@@ -1,0 +1,29 @@
+conda info: recolher info sobre o nosso Anaconda
+conda update conda: atualizar o conda
+
+conda create --name <ambiente> <versão python>:criar um novo environment
+conda create --name oern python=3.12
+
+conda activate <ambiente>: ativar o ambiente
+conda activate oern
+
+conda deactivate: desativar o ambiente
+
+conda env remove --name <ambiente>: remover o ambiente
+conda env remove --name oern
+
+conda list: lista os pacotes instalados no ambiente
+
+conda search <pacote>: procurar um pacote especifico
+conda search numpy
+
+conda install <pacote> <pacote>: instalar pacotes
+conda install numpy matplotlib seaborn scipy spyder
+
+conda update <pacote>: procurar atualizações para o pacote
+conda update numpy
+
+conda remove <pacote>: remover um pacote
+conda remove numpy
+
+ipython: inicializa o interpretador Python incluído no Spyder
