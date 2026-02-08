@@ -1,0 +1,17 @@
+ANACONDA: https://www.anaconda.com/
+
+Getting Started with Anaconda: https://www.anaconda.com/docs/main
+
+Spyder IDE: https://www.spyder-ide.org/
+
+Spyder Manual: https://docs.spyder-ide.org/current/index.html
+
+Programming for Computations - Python: https://link.springer.com/book/10.1007/978-3-030-16877-3
+
+Python for Everybody (EN): https://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
+
+Python for Everybody (PT_br): https://do1.dr-chuck.com/pythonlearn/PT_br/pythonlearn.pdf
+
+Byte of Python: 
+
+Think Python: https://greenteapress.com/thinkpython/thinkpython.pdf
