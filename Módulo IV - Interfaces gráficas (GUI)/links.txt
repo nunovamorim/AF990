@@ -1,0 +1,7 @@
+PyQt5 Reference Guide: https://www.riverbankcomputing.com/static/Docs/PyQt5/
+
+Qt Creator: https://www.qt.io/development/tools
+
+Qt Designer Manual: https://doc.qt.io/archives/qt-5.15/qtdesigner-manual.html
+
+PyInstaller Manual: https://pyinstaller.org/en/stable/
